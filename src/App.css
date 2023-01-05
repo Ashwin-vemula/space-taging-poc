@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* nav code */
+
+.folder{
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.file{
+  font-size: 15px;
+}
+
+.children{
+  margin-left: 30px;
+}
+
+.section {
+  display: flex;
+  justify-content: space-around;
+}
