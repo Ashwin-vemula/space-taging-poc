@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/space-taging-poc/static/css/main.aa6c2591.css",
-    "main.js": "/space-taging-poc/static/js/main.0159bee8.js",
+    "main.js": "/space-taging-poc/static/js/main.7df8a53d.js",
     "static/js/787.b283c2db.chunk.js": "/space-taging-poc/static/js/787.b283c2db.chunk.js",
     "static/media/space.png": "/space-taging-poc/static/media/space.6e7d38c8b90732a22d0e.png",
     "static/media/logo.svg": "/space-taging-poc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/space-taging-poc/index.html",
     "main.aa6c2591.css.map": "/space-taging-poc/static/css/main.aa6c2591.css.map",
-    "main.0159bee8.js.map": "/space-taging-poc/static/js/main.0159bee8.js.map",
+    "main.7df8a53d.js.map": "/space-taging-poc/static/js/main.7df8a53d.js.map",
     "787.b283c2db.chunk.js.map": "/space-taging-poc/static/js/787.b283c2db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa6c2591.css",
-    "static/js/main.0159bee8.js"
+    "static/js/main.7df8a53d.js"
   ]
 }
